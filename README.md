@@ -8,9 +8,12 @@ Tamkeen app is the official assistant for people with disabilities around the wo
 
 [Tamkeen](https://github.com/abdallahsekrafi/tamkeen)
 
-# Tamkeen app font-end `fully responsive` ### `dark mode` ### `light mode`
+# Tamkeen app font-end 
+`fully responsive` 
+`dark mode` 
+`light mode`
 
-### `Technologies`
+# `Technologies`
 
 JAVASCRIPT, REACT, NODEJS, REDUX, Redux Toolkit,Redux persist, MUI (material UI), CSS, HTML
 
