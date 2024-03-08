@@ -48,3 +48,14 @@ replace:
 
 - LinkedIn: https://www.linkedin.com/in/abdallah-sekrafi-47232889/
 - Facebook: https://www.facebook.com/abdallah.sek/
+
+# What you can do:
+- create account with sending email verification `nodemailer`
+- authentification
+- autorisation `JWT`
+- create new post
+- display all frend post
+- add frent
+- like and comment post
+- talk with AI assistant `Open AI API`
+- switch `dark mode` `light mode`
