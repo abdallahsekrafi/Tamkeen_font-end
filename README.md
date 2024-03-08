@@ -59,3 +59,6 @@ replace:
 - like and comment post
 - talk with AI assistant `Open AI API`
 - switch `dark mode` `light mode`
+
+# Home page:
+<img src="https://github.com/abdallahsekrafi/tamkeen/blob/main/screenshot/full.png" width="800">
